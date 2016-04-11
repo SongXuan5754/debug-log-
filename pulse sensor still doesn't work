@@ -1,0 +1,8 @@
+I can not use analog pin0 because it will break the circuit. 
+The pulse sensor still doesn't work, so I try to Turn On ASCII Visualizer
+
+// Regards Serial OutPut  -- Set This Up to your needs
+static boolean serialVisual = false;   // Set to 'false' by Default.
+
+But I only read S175 S150 S 160...
+I think the problem is the pulse sensor. I may change another pulse sensor.
