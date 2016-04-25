@@ -1,0 +1,3 @@
+Problem 1: I connected to the wrong analog pin. Pulse serial should connect with pin 0
+Problem 2: Processing did not draw images and animation. When I download code to processing, it says I should change Serial.list()[9] to Serial.list()[1]
+           because serial 1 can connect with USB which connect with arduino. 
