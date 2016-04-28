@@ -1,0 +1,7 @@
+I try to connect it with arduino UNO, but it doesn't work 
+
+I downloaded the code ssd1206_128*64_i2c
+
+The problem is #error("Height incorrect, please fix Adafruit_SSD1306.h!");
+
+So I decide to change another LCD
