@@ -1,0 +1,2 @@
+When I connect Pulse sensor with neo-pixel, I copy the code from library. So, the neo-pixel just lighten all the time.
+I want the neo-pixel lighten with my hearbeat, so I add  if (QS == true)...else { colorWipe(strip.Color(0, 0, 0), 50); }
