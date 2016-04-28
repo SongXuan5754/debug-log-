@@ -1,0 +1,1 @@
+in order to detect the pulse we will pass light (using an LED) from one side of the finger and measure the intensity of light received on the other side (using an LDR). Whenever the heart pumps blood more light is absorbed by increased blood cells and we will observe a decrease in the intensity of light received on the LDR.
