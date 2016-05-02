@@ -1,0 +1,11 @@
+Problem1: When I connect with multiple neo-pixel, it is hard to make all of them pulse at the same time.
+I changed the code --- Adafruit_NeoPixel strip = Adafruit_NeoPixel(8, PIN, NEO_GRB + NEO_KHZ800);
+I also resolder each component with Adafruit flora as well. 
+
+Problem2: arudino does not work 
+I changed Board from Adafruit Uno to Adafruit flora
+
+Problem3: When I converted it to smaller Trinket: neo-pixel do not work.
+I connected the wrong wires. I need to switch two wire in pulse sensor.
+Smaller trinket is very hard to control and connect because I solder broken wires and use heart gun to shrink them. It makes
+some component not sensitive enough. (it is still a problem)
